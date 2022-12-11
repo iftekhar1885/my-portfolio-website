@@ -705,6 +705,16 @@ nav button#close-menu-btn{
     align-items: center;
 
    }
+   .details_image{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 75%;
+    margin-left: 5rem;
+   }
+   .row-details{
+    grid-template-columns: repeat(2,1fr);
+}
 }
 
 
